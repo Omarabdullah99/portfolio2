@@ -6,7 +6,7 @@ import Social from "./Social";
 
 const Home = () => {
   return (
-    <section className="home section">
+    <section className="home section" id="home">
       <div className="home_container container grid">
         <div className="home_content grid">
 
